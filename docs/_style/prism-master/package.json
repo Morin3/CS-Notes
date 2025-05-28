@@ -30,7 +30,7 @@
     "gulp-uglify": "^0.3.1",
     "gulp-replace": "^0.5.4",
     "mocha": "^2.2.5",
-    "yargs": "^3.26.0"
+    "yargs": "^18.0.0"
   },
   "jspm": {
     "main": "prism",
